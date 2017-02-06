@@ -11,9 +11,6 @@ node{
 			echo 'End Build Stage'
 			echo '***********************'
 		}
-		node('GII_INSTALL'){
-			echo 'Slave Machine'
-		}
 	stage 'Development'
 		echo '***********************'
 		echo 'Begin Development Stage'
