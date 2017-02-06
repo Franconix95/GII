@@ -12,7 +12,7 @@ node{
 			echo '***********************'
 			echo 'Begin --> Kill All GlinttHS.Tools.ConfigDeployIIS.exe'
 			echo '***********************'
-			bat "\"${workspace}\"killSession.bat"
+			bat "\"${workspace}\"\killSession.bat"
 			echo '***********************'
 			echo 'End   --> Kill All GlinttHS.Tools.ConfigDeployIIS.exe'
 			echo '***********************'
