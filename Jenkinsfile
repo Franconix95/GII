@@ -1,6 +1,5 @@
 node{
-	stage 'Build'
-	{
+	stage ('Build') {
 		node('MASTER_MACHINE'){
 			echo '***********************'
 			echo 'Begin Build Stage'
@@ -24,8 +23,7 @@ node{
 			echo '***********************'
 		}
 	}
-	stage 'Development'
-	{
+	stage ('Development') {
 		echo '***********************'
 		echo 'Begin Development Stage'
 		echo '***********************'
@@ -37,12 +35,10 @@ node{
 		echo 'END Development Stage'
 		echo '***********************'
 	}
-	stage 'Quality'
-	{
+	stage ('Quality') {
 		echo 'do qual'
 	}
-	stage 'Production'
-	{
+	stage ('Production') {
 		echo 'do prod'
 	}
 }
