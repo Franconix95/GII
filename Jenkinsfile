@@ -5,7 +5,7 @@ node{
 			echo 'Begin Build Stage'
 			echo '***********************'
 			
-			bat "xcopy \"${workspace}\"@script D:\\GLINTTHS_IIS\\GII_SETUP /s /e "
+			bat "xcopy \"${workspace}\"@script D:\\GLINTTHS_IIS\\GII_SETUP /s /e /Y "
 						
 			echo '***********************'
 			echo 'End Build Stage'
@@ -16,7 +16,7 @@ node{
 			echo 'Begin Deploy Slave'
 			echo '***********************'
 			
-			bat "xcopy \"${workspace}\"@script D:\\GLINTTHS_IIS\\GII_SETUP /s /e "
+			bat "xcopy \"${workspace}\"@script D:\\GLINTTHS_IIS\\GII_SETUP /s /e /Y "
 						
 			echo '***********************'
 			echo 'End Deploy Slave'
