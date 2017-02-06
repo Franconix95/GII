@@ -1,16 +1,5 @@
 node{
 	stage ('Build') {
-		node('MASTER_MACHINE'){
-			echo '***********************'
-			echo 'Begin Build Stage'
-			echo '***********************'
-			
-			bat "xcopy \"${workspace}\"@script D:\\GLINTTHS_IIS\\GII_SETUP /s /e /Y "
-						
-			echo '***********************'
-			echo 'End Build Stage'
-			echo '***********************'
-		}
 		node('GII_INTALL'){
 			echo '***********************'
 			echo 'Begin Deploy Slave'
