@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <!--CONFIGURATIONS-->
+  <Configs>
+    <Config>
+      <name><![CDATA[CLIENT_ID]]></name>
+      <value><![CDATA[112]]></value>
+    </Config>
+    <Config>
+      <name><![CDATA[INSTALL_FOLDER]]></name>
+      <value><![CDATA[D:\GLINTTHS_IIS\GlobalCare_P]]></value>
+    </Config>
+    <Config>
+      <name><![CDATA[TO_INSTALL_FOLDER]]></name>
+      <value><![CDATA[0_GII]]></value>
+    </Config>
+    <Config>
+      <name><![CDATA[DEFAULT_CONFIGURATION]]></name>
+      <value><![CDATA[Production]]></value><!-- Production - Upgrade - Development -->
+    </Config>
+    <Config>
+      <name><![CDATA[LOCK_CONFIGURATION_DEFAULT]]></name>
+      <value><![CDATA[YES]]></value><!-- YES - NO -->
+    </Config>
+    <Config>
+      <name><![CDATA[GLINTTHS_TOOLS_WEB_URL]]></name>
+      <value><![CDATA[http://10.250.39.117:9898/login.php]]></value>
+    </Config>
+    <Config>
+      <name><![CDATA[CLEAN_ZIP_LOGS_IN_DAYS]]></name>
+      <value><![CDATA[1]]></value>
+    </Config>
+    <Config>
+      <name><![CDATA[CLEAN_ZIP_BACKUPS_IN_DAYS]]></name>
+      <value><![CDATA[150]]></value>
+    </Config>
+    <!--PROXY DEFINITION-->
+    <Config>
+      <name>proxy_url</name>
+      <value><![CDATA[]]></value>
+    </Config>
+    <Config>
+      <name>proxy_port</name>
+      <value><![CDATA[]]></value>
+    </Config>
+    <Config>
+      <name>proxy_user</name>
+      <value><![CDATA[]]></value>
+    </Config>
+    <Config>
+      <name>proxy_domain</name>
+      <value><![CDATA[]]></value>
+    </Config>
+    <Config>
+      <name>proxy_userpwd</name>
+      <value><![CDATA[]]></value>
+    </Config>
+    <Config>
+      <name>proxy_is_auto_script_config</name>
+      <value><![CDATA[false]]></value>
+      <!--false;true-->
+    </Config>
+    <Config>
+      <name>expect100Continue</name>
+      <value><![CDATA[true]]></value>
+      <!--false;true-->
+    </Config>
+    <!--END PROXY DEFINITION-->
+    <Config>
+      <name>download_deploy_web</name>
+      <value><![CDATA[true]]></value>
+    </Config>
+    <Config>
+      <name>deploy_version</name>
+      <value><![CDATA[17R101]]></value>
+    </Config>
+    <Config>
+      <name>deploy_type</name>
+      <value><![CDATA[V3]]></value>
+    </Config>
+  </Configs>
+</Data>

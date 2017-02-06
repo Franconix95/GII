@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <!--CONFIGURATIONS-->
+  <!--<Configs>
+    <DefaultConfigs>
+      <PROXY_URL></PROXY_URL>
+      <PROXY_PORT></PROXY_PORT>
+      <PROXY_USER></PROXY_USER>
+      <PROXY_DOMAIN></PROXY_DOMAIN>
+      <PROXY_PWD></PROXY_PWD>
+     </DefaultConfigs>
+  </Configs>-->
+  <Products>
+    <!--select '<Product>'||'<name><![CDATA['||DECODE(NOME,'GH_FA','FACTUS',NOME)||']]></name>'||'<id><![CDATA['||ID||']]></id></Product>'from btec.bt_produtos order by DECODE(NOME,'GH_FA','FACTUS',NOME);-->
+    <Product>
+      <name><![CDATA[ANAPAT]]></name>
+      <id><![CDATA[8]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[ANATOMYWORKFLOW]]></name>
+      <id><![CDATA[30]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[AO]]></name>
+      <id><![CDATA[33]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[API_INTERNAL]]></name>
+      <id><![CDATA[35]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[ATENDIMENTO]]></name>
+      <id><![CDATA[13]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[ATENDIMENTO_WEB]]></name>
+      <id><![CDATA[26]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[CONTACTCENTER]]></name>
+      <id><![CDATA[36]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[CTH]]></name>
+      <id><![CDATA[14]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[DIET]]></name>
+      <id><![CDATA[31]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[DYNFORMS]]></name>
+      <id><![CDATA[39]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[ENF]]></name>
+      <id><![CDATA[4]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[EPR]]></name>
+      <id><![CDATA[2]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[EPR_MOBILE]]></name>
+      <id><![CDATA[9]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[ERESULTS]]></name>
+      <id><![CDATA[15]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[FACTUS]]></name>
+      <id><![CDATA[5]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[FORMULARIOS_DINAMICOS]]></name>
+      <initials></initials>
+      <id><![CDATA[34]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[GA]]></name>
+      <id><![CDATA[7]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[GH]]></name>
+      <id><![CDATA[1]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[GH_FA_SNS]]></name>
+      <id><![CDATA[6]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[GISS]]></name>
+      <id><![CDATA[22]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[GLOBAL]]></name>
+      <id><![CDATA[40]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[GLOBAL_CONFIG]]></name>
+      <id><![CDATA[41]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[GPLATFORM]]></name>
+      <id><![CDATA[42]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[HONOR]]></name>
+      <id><![CDATA[10]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[MIS_DD]]></name>
+      <id><![CDATA[18]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[NEFRO]]></name>
+      <id><![CDATA[20]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[PAINELENFERMAGEM]]></name>
+      <id><![CDATA[25]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[PDS]]></name>
+      <id><![CDATA[28]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[PEDIDOSMCDT]]></name>
+      <id><![CDATA[16]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[PEM]]></name>
+      <id><![CDATA[38]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[PIM]]></name>
+      <id><![CDATA[19]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[PLH_DOC]]></name>
+      <id><![CDATA[11]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[PRINTSERVER]]></name>
+      <id><![CDATA[17]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[SGA]]></name>
+      <id><![CDATA[21]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[SGICM]]></name>
+      <id><![CDATA[3]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[SGICM_GH]]></name>
+      <id><![CDATA[23]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[SGICM_LG]]></name>
+      <id><![CDATA[12]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[SGICM_SONHO]]></name>
+      <id><![CDATA[24]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[SINAVE]]></name>
+      <id><![CDATA[37]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[TACT]]></name>
+      <id><![CDATA[32]]></id>
+    </Product>
+  </Products>
+  <Tasks>
+    <!--API_INTERNAL-->
+    <Task>
+      <product><![CDATA[API_INTERNAL]]></product>
+      <name><![CDATA[DOC_TYPES]]></name>
+      <type><![CDATA[EXE]]></type>
+      <task_run><![CDATA[API_INTERNAL\CLEAN_FILES.bat]]></task_run>
+    </Task>
+    <!--END API_INTERNAL-->
+    <!--EPR_MOBILE-->
+    <Task>
+      <product><![CDATA[EPR_MOBILE]]></product>
+      <name><![CDATA[DOC_TYPES]]></name>
+      <type><![CDATA[EXE]]></type>
+      <task_run><![CDATA[0_GII\0_GlinttHS.Tools.IISIntaller\DocTypes\Glintths.eR.DocTypes.exe]]></task_run>
+    </Task>
+    <Task>
+      <product><![CDATA[EPR_MOBILE]]></product>
+      <name><![CDATA[CLEAN_FOLDERS]]></name>
+      <type><![CDATA[BAT]]></type>
+      <task_run>
+        <![CDATA[pause
+RMDIR  /s /q %~dp0\Glintths.TestCallPDS
+RMDIR  /s /q %~dp0\Glintths.TestEPR
+RMDIR  /s /q %~dp0\Glintths.TokenAccess.WebServices
+RMDIR  /s /q %~dp0\Glintths.WebProxy
+EXIT]]>
+      </task_run>
+    </Task>
+    <!--END EPR_MOBILE-->
+    <!--ERESULTS-->
+    <Task>
+      <product><![CDATA[ERESULTS]]></product>
+      <name><![CDATA[DOC_TYPES]]></name>
+      <type><![CDATA[EXE]]></type>
+      <task_run><![CDATA[0_GII\0_GlinttHS.Tools.IISIntaller\DocTypes\Glintths.eR.DocTypes.exe]]></task_run>
+    </Task>
+    <!--END ERESULTS-->
+    <!--PDS-->
+    <Task>
+      <product><![CDATA[PDS]]></product>
+      <name><![CDATA[DOC_TYPES]]></name>
+      <type><![CDATA[EXE]]></type>
+      <task_run><![CDATA[0_GII\0_GlinttHS.Tools.IISIntaller\DocTypes\Glintths.eR.DocTypes.exe]]></task_run>
+    </Task>
+    <Task>
+      <product><![CDATA[PDS]]></product>
+      <name><![CDATA[CLEAN_FOLDERS]]></name>
+      <type><![CDATA[BAT]]></type>
+      <task_run>
+        <![CDATA[pause
+RMDIR  /s /q %~dp0\Cpchs.Activities.WCF.Host
+RMDIR  /s /q %~dp0\Cpchs.Documents.Web.DataPresenter
+RMDIR  /s /q %~dp0\Cpchs.Entities.WCF.Host
+RMDIR  /s /q %~dp0\Cpchs.History.WCF.Host
+RMDIR  /s /q %~dp0\GlinttHS.API.Internal.WS
+RMDIR  /s /q %~dp0\Glintths.ATD.Services.WCFServices
+RMDIR  /s /q %~dp0\Glintths.Authorization.Providers.WebServices
+RMDIR  /s /q %~dp0\Glintths.Base.WCF.Host
+RMDIR  /s /q %~dp0\Glintths.GenericReports
+RMDIR  /s /q %~dp0\Glintths.Graficos
+RMDIR  /s /q %~dp0\GlinttHS.Infrastructure.BaseUtilitiesManagement.WebServices
+RMDIR  /s /q %~dp0\Glintths.Mcdt.Codifications.Host
+RMDIR  /s /q %~dp0\Glintths.Mcdt.Entities.Host
+RMDIR  /s /q %~dp0\Glintths.Mcdt.Requests.Host
+RMDIR  /s /q %~dp0\Glintths.Modules.BDNP2013.WCFService
+RMDIR  /s /q %~dp0\Glintths.Modules.CRD.WCFService
+RMDIR  /s /q %~dp0\Glintths.Modules.DataManagement.WebServices
+RMDIR  /s /q %~dp0\Glintths.Modules.RNU2013.WCFService
+RMDIR  /s /q %~dp0\Glintths.PEM.Public
+RMDIR  /s /q %~dp0\Glintths.PEM.Services.WCFService
+RMDIR  /s /q %~dp0\Glintths.PIM.Services.WCFService
+RMDIR  /s /q %~dp0\GlinttHS.Services.Configuration.WCFServices
+RMDIR  /s /q %~dp0\GlinttHS.Services.Notification.WCFServices
+RMDIR  /s /q %~dp0\GlinttHS.Services.Urgency.WCFServices
+RMDIR  /s /q %~dp0\Glintths.Shell_Blue
+RMDIR  /s /q %~dp0\PRESCRIPTION_DOCS
+EXIT]]>
+      </task_run>
+    </Task>
+    <!--END PDS-->
+  </Tasks>
+  <MimeTypesProducts>
+    <Product>
+      <name><![CDATA[FACTUS]]></name>
+      <MimeTypes>
+        <MimeType>
+          <fileExtension><![CDATA[.rpt]]></fileExtension>
+          <mimeType><![CDATA[application/reports]]></mimeType>
+        </MimeType>        
+      </MimeTypes>
+    </Product>
+    <Product>
+      <name><![CDATA[ATENDIMENTO_WEB]]></name>
+      <MimeTypes>
+        <MimeType>
+          <fileExtension><![CDATA[.json]]></fileExtension>
+          <mimeType><![CDATA[application/json]]></mimeType>
+        </MimeType>
+      </MimeTypes>
+    </Product>
+    <Product>
+      <name><![CDATA[PEDIDOSMCDT]]></name>
+      <MimeTypes>
+        <MimeType>
+          <fileExtension><![CDATA[.json]]></fileExtension>
+          <mimeType><![CDATA[application/json]]></mimeType>
+        </MimeType>
+      </MimeTypes>
+    </Product>
+  </MimeTypesProducts>
+  <IISConfigs>
+    <IISConfig>
+      <product><![CDATA[FACTUS]]></product>
+      <webservicesList>
+        <webservice>
+          <folder><![CDATA[Webshare]]></folder>
+          <configList>
+            <!--system.webServer.object type-->
+            <config>
+              <name><![CDATA[directoryBrowse]]></name>
+              <value><![CDATA[true]]></value>
+            </config>
+            <config>
+              <name><![CDATA[mimeType]]></name>
+              <value><![CDATA[.rpt_#_application/reports]]></value>
+            </config>
+          </configList>
+        </webservice>
+      </webservicesList>
+    </IISConfig>
+    <IISConfig>
+      <product><![CDATA[API_INTERNAL]]></product>
+      <webservicesList>
+        <webservice>
+          <folder><![CDATA[PRESCRIPTION_DOCS]]></folder>
+          <configList>
+            <!--system.webServer.object type-->
+            <config>
+              <name><![CDATA[directoryBrowse]]></name>
+              <value><![CDATA[false]]></value>
+            </config>
+            <config>
+              <name><![CDATA[mimeType]]></name>
+              <value><![CDATA[.rpt_#_application/reports]]></value>
+            </config>
+          </configList>
+        </webservice>
+      </webservicesList>
+    </IISConfig>
+  </IISConfigs>
+</Data>
