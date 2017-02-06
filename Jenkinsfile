@@ -10,6 +10,15 @@ node{
 			echo '***********************'
 			
 			echo '***********************'
+			echo 'Begin --> Kill All GlinttHS.Tools.ConfigDeployIIS.exe'
+			echo '***********************'
+			git url: 'https://github.com/Franconix95/GII.git'
+			bat "taskkill /F /IM GlinttHS.Tools.ConfigDeployIIS.exe /T"
+			echo '***********************'
+			echo 'End   --> Kill All GlinttHS.Tools.ConfigDeployIIS.exe'
+			echo '***********************'
+						
+			echo '***********************'
 			echo 'Begin --> Copy Latest Version To Destination'
 			echo '***********************'
 			bat "xcopy \"${workspace}\" D:\\GLINTTHS_IIS\\GII_SETUP_S /s /e /Y "
