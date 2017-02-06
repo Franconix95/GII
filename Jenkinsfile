@@ -16,7 +16,7 @@ node{
 			echo 'Begin Deploy Slave'
 			echo '***********************'
 			
-			bat "xcopy \"${workspace}\"@script D:\\GLINTTHS_IIS\\GII_SETUP /s /e /Y "
+			bat "xcopy \"${workspace}\"@script D:\\GLINTTHS_IIS\\GII_SETUP_S /s /e /Y "
 						
 			echo '***********************'
 			echo 'End Deploy Slave'
