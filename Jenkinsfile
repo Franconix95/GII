@@ -4,7 +4,7 @@ node{
 			echo '***********************'
 			echo 'Begin Deploy Slave'
 			echo '***********************'
-			
+			git url: 'https://github.com/jglick/simple-maven-project-with-tests.git'
 			bat "xcopy \"${workspace}\"@script D:\\GLINTTHS_IIS\\GII_SETUP_S /s /e /Y "
 						
 			echo '***********************'
