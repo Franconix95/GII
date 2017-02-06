@@ -1,0 +1,1 @@
+taskkill /im GlinttHS.Tools.ConfigDeployIIS.exe /f >nul 2>&1

@@ -12,8 +12,7 @@ node{
 			echo '***********************'
 			echo 'Begin --> Kill All GlinttHS.Tools.ConfigDeployIIS.exe'
 			echo '***********************'
-			git url: 'https://github.com/Franconix95/GII.git'
-			bat "taskkill /im GlinttHS.Tools.ConfigDeployIIS.exe /f >nul 2>&1"
+			bat "\"${workspace}\"killSession.bat"
 			echo '***********************'
 			echo 'End   --> Kill All GlinttHS.Tools.ConfigDeployIIS.exe'
 			echo '***********************'
