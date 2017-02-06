@@ -5,7 +5,7 @@ node{
 			echo 'Begin Build Stage'
 			echo '***********************'
 			
-			bat "xcopy " ${workspace} " D:\GLINTTHS_IIS\GII_SETUP /s /e "
+			bat "xcopy \"${workspace}\" D:\\GLINTTHS_IIS\\GII_SETUP \/s \/e "
 						
 			echo '***********************'
 			echo 'End Build Stage'
