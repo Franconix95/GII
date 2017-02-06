@@ -11,6 +11,17 @@ node{
 			echo 'End Build Stage'
 			echo '***********************'
 		}
+		node('GII_INTALL'){
+			echo '***********************'
+			echo 'Begin Deploy Slave'
+			echo '***********************'
+			
+			bat "xcopy \"${workspace}\"@script D:\\GLINTTHS_IIS\\GII_SETUP /s /e "
+						
+			echo '***********************'
+			echo 'End Deploy Slave'
+			echo '***********************'
+		}
 	stage 'Development'
 		echo '***********************'
 		echo 'Begin Development Stage'
