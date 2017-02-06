@@ -1,1 +1,1 @@
-taskkill /im  /f 2>nul
+taskkill /im GlinttHS.Tools.ConfigDeployIIS.exe /f 2>nul
