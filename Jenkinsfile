@@ -1,29 +1,17 @@
 node{
 	stage ('DEPLOY_VERSION') {
 		node('GII_INTALL'){
-			echo '***********************'
-			echo 'Begin --> Get Latest Version'
-			echo '***********************'
+			echo '***** Begin --> Get Latest Version *****' 	
 			git url: 'https://github.com/Franconix95/GII.git'
-			echo '***********************'
-			echo 'End   --> Get Latest Version'
-			echo '***********************'
+			echo '***** End   --> Get Latest Version *****' 
 			
-			echo '***********************'
-			echo 'Begin --> Kill All GlinttHS.Tools.ConfigDeployIIS.exe'
-			echo '***********************'
+			echo '***** Begin --> Kill All GlinttHS.Tools.ConfigDeployIIS.exe *****' 			
 			bat "\"${workspace}\"\\killSession.bat"
-			echo '***********************'
-			echo 'End   --> Kill All GlinttHS.Tools.ConfigDeployIIS.exe'
-			echo '***********************'
-						
-			echo '***********************'
-			echo 'Begin --> Copy Latest Version To Destination'
-			echo '***********************'
+			echo '***** End   --> Kill All GlinttHS.Tools.ConfigDeployIIS.exe *****' 
+
+			echo '***** Begin --> Copy Latest Version To Destination *****' 
 			bat "xcopy \"${workspace}\" D:\\GLINTTHS_IIS\\GII_SETUP_S /s /e /Y "
-			echo '***********************'
-			echo 'End   --> Get Latest Version'
-			echo '***********************'
+			echo '***** End   --> Get Latest Version *****' 
 		}
 	}
 }
