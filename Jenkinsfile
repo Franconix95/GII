@@ -1,6 +1,7 @@
 node{
 	stage ('DEPLOY_VERSION') {
-		node('GII_INTALL'){
+		input 'Do you approve deployment?'
+		node('GII_INTALL'){	
 			echo '***** Begin --> Get Latest Version *****' 	
 			git url: 'https://github.com/Franconix95/GII.git'
 			echo '***** End   --> Get Latest Version *****' 

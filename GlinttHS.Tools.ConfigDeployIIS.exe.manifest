@@ -86,7 +86,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>KZH1AZno4TDSlcyblIIfLTerysE=</dsig:DigestValue>
+        <dsig:DigestValue>2ApFRQcJACkZR4/nPitKdeDwxZQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>7FtMFS9sxtmB7g5hJDBVmNwZEXk=</dsig:DigestValue>
+        <dsig:DigestValue>91/glQaWF/6uL6+NwdkhoMGlsXY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -345,6 +345,15 @@
       <dsig:DigestValue>SiXszvi0wfVxTsCY1Ja9GEuhRV0=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="KillSession_VBS.vbs" size="918">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XZ3GPJHTZ1fOByDpUu/2xQoi7dg=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="MyStyle.isl" size="207597">
     <hash>
       <dsig:Transforms>
@@ -352,6 +361,240 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>kmD62bEekNm5GU85wqS5ITiIqDw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\Eula.txt" size="7490">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WrgGYYSXGJNCci1C3DgmI6w+G1U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\PsExec.exe" size="339096">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5Q2eO9kZCOE6JrPiPt6vV3+zoJU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\PsExec64.exe" size="374944">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+woVBgFHAZXEe06Nh/yz9QKSvrI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\psfile.exe" size="149664">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PpnzaAt+S6T63pD9M4mZsqtMp/g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\psfile64.exe" size="168608">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mg/fuAGrdu7bvQ4YQwr3JVaijQ0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\PsGetsid.exe" size="287392">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tmh9ASBh/797XaEezVSvMS9YS9I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\PsGetsid64.exe" size="326824">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>GcgzmjPiB4OH+UTdx6P0YrclyVc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\PsInfo.exe" size="313496">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6DnOHgRG2NqImTX0EfD7etVNSz4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\PsInfo64.exe" size="351904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RTxw5LEuyr6GCGYWWtOd5jYSFf0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\pskill.exe" size="284320">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>U2jLekZtVZ63TFMED3Gdgjy+Tfw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\pskill64.exe" size="318624">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vCy5fwn3C9ISJSMqQa9iBqYvoYI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\pslist.exe" size="178848">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/kHjVIXUxbYexVXBw4ll+Dd1lYU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\pslist64.exe" size="202400">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>u5tEKnzuJaGIEd77bnZDNkW0+a4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\PsLoggedon.exe" size="151728">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8C4GvEOaKKrW3ZV9+NACLyJ5igk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\PsLoggedon64.exe" size="170160">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>H1teQMQg9kqo6N5HE2fj3syXY80=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\psloglist.exe" size="178040">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>S6kqc39a7pcMqv3Ka3rQ+3Kerzc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\pspasswd.exe" size="149664">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Bhj+xF6u6JzUx7F/d9n/ZZ6r4XY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\pspasswd64.exe" size="168616">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>kJlPZH+M+sLESOa7U3HMPdDk/rU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\psping.exe" size="255648">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xMzQZfbVUaAd6GWZ42v5A5DhAc0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\psping64.exe" size="293032">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>74zQ+e8eILEZ8ZCJeNLnS1h8J14=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\PsService.exe" size="188584">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Dba2VqsFBZA7xH9H5j40Uak/QeE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\PsService64.exe" size="210608">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MEltL2CisQrg2jnlrfEHs7Q8zM0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\psshutdown.exe" size="207664">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Hwpo+oq+OrvtstUrJP2AWuuQ8vE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\pssuspend.exe" size="289448">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DfzzGtRVq9SNNbAlC1sDJlBS+6Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\pssuspend64.exe" size="321704">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PfqCuIhNK7x7Q/b5eH2lGjj6V7Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PSTools\psversion.txt" size="37">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wvSdLu51ZQ+XtHbWUw3BZzWU404=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
