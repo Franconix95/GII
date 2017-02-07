@@ -1,6 +1,20 @@
 node{
+	stage ('GET_SLAVES'){
+		for (String slave : getSlaves()) {
+			node(slave) {
+				echo "hostname"   
+			}
+		}
+	}
 	stage ('DEPLOY_VERSION') {
+
+
 		input 'Do you approve deployment?'
+		for (String slave : getSlaves()) {
+			node(slave) {
+				echo "hostname"   
+			}
+		}
 		node('GII_INTALL'){	
 			echo '***** Begin --> Get Latest Version *****' 	
 			git url: 'https://github.com/Franconix95/GII.git'
