@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Iclz2zS3actZ0/q8gpH/nSkLDjc=</dsig:DigestValue>
+        <dsig:DigestValue>0+kEz9NBVKaVrlLXz+ro3z5kWPw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlinttHS.Tools.ConfigDeployIIS.exe" size="1181184">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlinttHS.Tools.ConfigDeployIIS.exe" size="1182208">
       <assemblyIdentity name="GlinttHS.Tools.ConfigDeployIIS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>H3+anegseQkt1mBHxRkKGOUZBrk=</dsig:DigestValue>
+        <dsig:DigestValue>4KRTXmgQnfGVimtqc9fi9PaUtXI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>RYohREn0uZtLPNVcVnMofS9SfpU=</dsig:DigestValue>
+        <dsig:DigestValue>rpR8yPaZEezuGjUY3+F60dEyCtc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

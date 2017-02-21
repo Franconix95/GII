@@ -18804,3 +18804,55 @@ Parameter name: index
 
 03/02/2017 16:43:44 - GlinttHS.Tools.ConfigDeployIIS.ChangeSiteId.001 (Line:4799) - Object reference not set to an instance of an object.
 
+15/02/2017 15:02:54 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:741) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
+
+15/02/2017 15:03:20 - GlinttHS.Tools.ConfigDeployIIS.DownloadDeployForProduct.001 (Line:3213) - Object reference not set to an instance of an object.
+
+20/02/2017 16:25:50 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:741) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
+
+20/02/2017 16:25:57 - GlinttHS.Tools.ConfigDeployIIS.VerifyPortIsAvaible.001 (Line:2456) - Object reference not set to an instance of an object.
+
+20/02/2017 16:27:11 - GlinttHS.Tools.ConfigDeployIIS.ConfigureIISDefForProduct.001 (Line:5596) - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+20/02/2017 16:27:11 - GlinttHS.Tools.ConfigDeployIIS.StartWebSite.002 (Line:4894) - Website GC17R101P.DEMO_HSDEV started!
+
+20/02/2017 16:27:16 - GlinttHS.Tools.ConfigDeployIIS.ChangeSiteId.001 (Line:4809) - Object reference not set to an instance of an object.
+
+20/02/2017 16:28:13 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2941) - Object reference not set to an instance of an object.
+
+20/02/2017 16:28:13 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2941) - Object reference not set to an instance of an object.
+
+20/02/2017 16:28:13 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2941) - Object reference not set to an instance of an object.
+
+20/02/2017 16:28:14 - GlinttHS.Tools.ConfigDeployIIS.ConfigureIISDefForProduct.001 (Line:5596) - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+20/02/2017 16:28:14 - GlinttHS.Tools.ConfigDeployIIS.StartWebSite.002 (Line:4894) - Website GC17R101P.DEMO_HSDEV started!
+
+20/02/2017 16:28:51 - GlinttHS.Tools.ConfigDeployIIS.ChangeSiteId.001 (Line:4809) - Object reference not set to an instance of an object.
+
+20/02/2017 16:36:36 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:741) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
+
+20/02/2017 16:37:59 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2941) - Object reference not set to an instance of an object.
+
+20/02/2017 16:38:00 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2941) - Object reference not set to an instance of an object.
+
+20/02/2017 16:38:00 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2941) - Object reference not set to an instance of an object.
+
+20/02/2017 16:38:00 - GlinttHS.Tools.ConfigDeployIIS.ConfigureIISDefForProduct.001 (Line:5602) - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+20/02/2017 16:38:00 - GlinttHS.Tools.ConfigDeployIIS.StartWebSite.002 (Line:4900) - Website GC17R101P.DEMO_HSDEV started!
+
+20/02/2017 17:16:32 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2941) - Object reference not set to an instance of an object.
+
+20/02/2017 17:16:32 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2941) - Object reference not set to an instance of an object.
+
+20/02/2017 17:16:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2941) - Object reference not set to an instance of an object.
+
+20/02/2017 17:16:33 - GlinttHS.Tools.ConfigDeployIIS.ConfigureIISDefForProduct.001 (Line:5602) - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+20/02/2017 17:16:33 - GlinttHS.Tools.ConfigDeployIIS.StartWebSite.002 (Line:4900) - Website GC17R101P.DEMO_HSDEV started!
+
