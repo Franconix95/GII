@@ -18856,3 +18856,17 @@ Parameter name: index
 
 20/02/2017 17:16:33 - GlinttHS.Tools.ConfigDeployIIS.StartWebSite.002 (Line:4900) - Website GC17R101P.DEMO_HSDEV started!
 
+06/03/2017 12:45:46 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:759) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
+
+06/03/2017 12:49:37 - GlinttHS.Tools.ConfigDeployIIS.DownloadDeployForProduct.001 (Line:3446) - Object reference not set to an instance of an object.
+
+06/03/2017 12:49:38 - GlinttHS.Tools.ConfigDeployIIS.VerifyPortIsAvaible.001 (Line:2699) - Object reference not set to an instance of an object.
+
+06/03/2017 12:52:13 - GlinttHS.Tools.ConfigDeployIIS.LoadClients.001 (Line:1576) - Object reference not set to an instance of an object.
+
+06/03/2017 12:52:14 - GlinttHS.Tools.ConfigDeployIIS.LoadWebSitesDataV2.001 (Line:1745) - Object reference not set to an instance of an object.
+
+06/03/2017 12:52:14 - GlinttHS.Tools.ConfigDeployIIS.LoadDataBasesData.001 (Line:2137) - Object reference not set to an instance of an object.
+
+06/03/2017 12:52:14 - GlinttHS.Tools.ConfigDeployIIS.LoadDataBasesData.001 (Line:2190) - Object reference not set to an instance of an object.
+
