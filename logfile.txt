@@ -18870,3 +18870,23 @@ Parameter name: index
 
 06/03/2017 12:52:14 - GlinttHS.Tools.ConfigDeployIIS.LoadDataBasesData.001 (Line:2190) - Object reference not set to an instance of an object.
 
+06/03/2017 15:43:51 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:759) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
+
+06/03/2017 15:45:04 - GlinttHS.Tools.ConfigDeployIIS.LoadClients.001 (Line:1576) - Object reference not set to an instance of an object.
+
+06/03/2017 15:45:04 - GlinttHS.Tools.ConfigDeployIIS.LoadWebSitesDataV2.001 (Line:1745) - Object reference not set to an instance of an object.
+
+06/03/2017 15:45:04 - GlinttHS.Tools.ConfigDeployIIS.LoadDataBasesData.001 (Line:2174) - Object reference not set to an instance of an object.
+
+06/03/2017 15:45:04 - GlinttHS.Tools.ConfigDeployIIS.LoadDataBasesData.001 (Line:2227) - Object reference not set to an instance of an object.
+
+06/03/2017 15:45:11 - GlinttHS.Tools.ConfigDeployIIS.LoadClients.001 (Line:1576) - Object reference not set to an instance of an object.
+
+06/03/2017 15:45:11 - GlinttHS.Tools.ConfigDeployIIS.LoadWebSitesDataV2.001 (Line:1745) - Object reference not set to an instance of an object.
+
+06/03/2017 15:45:11 - GlinttHS.Tools.ConfigDeployIIS.LoadDataBasesData.001 (Line:2174) - Object reference not set to an instance of an object.
+
+06/03/2017 15:45:11 - GlinttHS.Tools.ConfigDeployIIS.LoadDataBasesData.001 (Line:2227) - Object reference not set to an instance of an object.
+
+06/03/2017 15:45:12 - GlinttHS.Tools.ConfigDeployIIS.VerifyPortIsAvaible.001 (Line:2736) - Object reference not set to an instance of an object.
+
