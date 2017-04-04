@@ -18896,3 +18896,5 @@ Parameter name: index
 
 03/04/2017 18:38:21 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:759) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
 
+04/04/2017 11:57:40 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:759) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
+
