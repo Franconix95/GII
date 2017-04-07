@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlintthHS.Tools.ConnectionGenerator.dll" size="12800">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlintthHS.Tools.ConnectionGenerator.dll" size="17408">
       <assemblyIdentity name="GlintthHS.Tools.ConnectionGenerator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>BB7YBMObNzy20DIgkY+9u3HiJEw=</dsig:DigestValue>
+        <dsig:DigestValue>qhRorOTiR6k1X7ncJXa4i/WTfQo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +86,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>RZaCUeLAf5kKXJG2UNOz4RpkS2o=</dsig:DigestValue>
+        <dsig:DigestValue>z8l74kEY9oTlFZKiCV4UgDS4hyA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>b8LYNu7xv4H7BxrzCYtsjlQt/XA=</dsig:DigestValue>
+        <dsig:DigestValue>doRqHel9Uic5gis7ZaxuLYce9+s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

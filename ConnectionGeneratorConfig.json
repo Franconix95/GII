@@ -1,0 +1,20 @@
+﻿[  
+   {  
+		"TYPE_CONFIG":"GeneratorMode",
+		"MODE":[
+			{  
+				"GenMode":"0",
+				"IDENTIFIERS":[
+					{"ID_APP":"DEFAULT"}
+				]
+		    },
+			{  
+				"GenMode":"1",
+				"IDENTIFIERS":[
+					{"ID_APP":"SERVICE_DISCOVERY"},
+					{"ID_APP":"DBGPLATFORM"}
+				]
+		    }
+		]
+   }
+]
