@@ -37,6 +37,10 @@
       <id><![CDATA[26]]></id>
     </Product>
     <Product>
+      <name><![CDATA[BEDSIDE]]></name>
+      <id><![CDATA[43]]></id>
+    </Product>
+    <Product>
       <name><![CDATA[CONTACTCENTER]]></name>
       <id><![CDATA[36]]></id>
     </Product>
@@ -47,6 +51,10 @@
     <Product>
       <name><![CDATA[DIET]]></name>
       <id><![CDATA[31]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[DIET_HTML]]></name>
+      <id><![CDATA[44]]></id>
     </Product>
     <Product>
       <name><![CDATA[DYNFORMS]]></name>
@@ -74,7 +82,6 @@
     </Product>
     <Product>
       <name><![CDATA[FORMULARIOS_DINAMICOS]]></name>
-      <initials></initials>
       <id><![CDATA[34]]></id>
     </Product>
     <Product>
@@ -84,6 +91,10 @@
     <Product>
       <name><![CDATA[GH]]></name>
       <id><![CDATA[1]]></id>
+    </Product>
+    <Product>
+      <name><![CDATA[GH_FA]]></name>
+      <id><![CDATA[5]]></id>
     </Product>
     <Product>
       <name><![CDATA[GH_FA_SNS]]></name>
