@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>qhRorOTiR6k1X7ncJXa4i/WTfQo=</dsig:DigestValue>
+        <dsig:DigestValue>HzLAQ234sxfrQIi5sKQtuF+ILYU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +86,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Acckaent0RWgFTlxPGgGrW5Mwoc=</dsig:DigestValue>
+        <dsig:DigestValue>f12xprtheyzVpV8x99500G9gi0c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>0CTmf6g77UAUB33AG/lY+OkySPA=</dsig:DigestValue>
+        <dsig:DigestValue>0q5IaDjqHgZVkrs2r9gWUZtSkYw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -339,13 +339,13 @@
       <dsig:DigestValue>/e5dajDiGoACQ9kWiH1qdUVgts0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="IISInstallConfigs.xml" size="10050" writeableType="applicationData">
+  <file name="IISInstallConfigs.xml" size="10447" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>ZJjfFoKSXZF1mIPBXfkEdE8u9qw=</dsig:DigestValue>
+      <dsig:DigestValue>rXhljEZDcG4bUs3NYdvjMz8SuJQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="IISInstallConfigs_Client.xml" size="2315" writeableType="applicationData">
