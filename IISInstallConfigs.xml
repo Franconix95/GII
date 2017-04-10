@@ -11,7 +11,10 @@
      </DefaultConfigs>
   </Configs>-->
   <Products>
-    <!--select '<Product>'||'<name><![CDATA['||DECODE(NOME,'GH_FA','FACTUS',NOME)||']]></name>'||'<id><![CDATA['||ID||']]></id></Product>'from btec.bt_produtos order by DECODE(NOME,'GH_FA','FACTUS',NOME);-->
+    <!--select '<Product>'||'<name><![CDATA['||NOME||']]></name>'||'<id><![CDATA['||ID||']]></id></Product>'from btec.bt_produtos
+union all
+select '<Product>'||'<name><![CDATA['||DECODE(NOME,'GH_FA','FACTUS',NOME)||']]></name>'||'<id><![CDATA['||ID||']]></id></Product>'from btec.bt_produtos where nome ='GH_FA'
+order by ;-->
     <Product>
       <name><![CDATA[ANAPAT]]></name>
       <id><![CDATA[8]]></id>
