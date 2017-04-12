@@ -18902,3 +18902,50 @@ Parameter name: index
 
 07/04/2017 16:27:46 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:759) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
 
+11/04/2017 17:10:23 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:759) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
+
+11/04/2017 17:10:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2803) - Filename: redirection.config
+Error: Cannot read configuration file due to insufficient permissions
+
+
+
+11/04/2017 17:10:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyPortIsAvaible.001 (Line:2695) - Filename: redirection.config
+Error: Cannot read configuration file due to insufficient permissions
+
+
+
+11/04/2017 17:10:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyPortIsAvaible.001 (Line:2734) - Filename: redirection.config
+Error: Cannot read configuration file due to insufficient permissions
+
+
+
+11/04/2017 17:10:34 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2771) - Filename: redirection.config
+Error: Cannot read configuration file due to insufficient permissions
+
+
+
+11/04/2017 17:10:34 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2771) - Filename: redirection.config
+Error: Cannot read configuration file due to insufficient permissions
+
+
+
+11/04/2017 17:10:34 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2771) - Filename: redirection.config
+Error: Cannot read configuration file due to insufficient permissions
+
+
+
+11/04/2017 17:10:34 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2771) - Filename: redirection.config
+Error: Cannot read configuration file due to insufficient permissions
+
+
+
+11/04/2017 17:10:35 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2803) - Filename: redirection.config
+Error: Cannot read configuration file due to insufficient permissions
+
+
+
+11/04/2017 17:10:35 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2771) - Filename: redirection.config
+Error: Cannot read configuration file due to insufficient permissions
+
+
+

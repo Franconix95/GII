@@ -298,6 +298,15 @@ EXIT]]>
         </MimeType>
       </MimeTypes>
     </Product>
+    <Product>
+      <name><![CDATA[GPLATFORM]]></name>
+      <MimeTypes>
+        <MimeType>
+          <fileExtension><![CDATA[.zprt]]></fileExtension>
+          <mimeType><![CDATA[text/plain]]></mimeType>
+        </MimeType>
+      </MimeTypes>
+    </Product>
   </MimeTypesProducts>
   <IISConfigs>
     <IISConfig>
@@ -333,6 +342,25 @@ EXIT]]>
             <config>
               <name><![CDATA[mimeType]]></name>
               <value><![CDATA[.rpt_#_application/reports]]></value>
+            </config>
+          </configList>
+        </webservice>
+      </webservicesList>
+    </IISConfig>
+    <IISConfig>
+      <product><![CDATA[GPLATFORM]]></product>
+      <webservicesList>
+        <webservice>
+          <folder><![CDATA[GlinttHS.API.Internal.WS.AnatomyWF]]></folder>
+          <configList>
+            <!--system.webServer.object type-->
+            <config>
+              <name><![CDATA[directoryBrowse]]></name>
+              <value><![CDATA[true]]></value>
+            </config>
+            <config>
+              <name><![CDATA[mimeType]]></name>
+              <value><![CDATA[.zprt_#_text/plain]]></value>
             </config>
           </configList>
         </webservice>
