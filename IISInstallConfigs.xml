@@ -187,6 +187,10 @@ order by ;-->
       <name><![CDATA[TACT]]></name>
       <id><![CDATA[32]]></id>
     </Product>
+    <Product>
+      <name><![CDATA[GRAFICOS]]></name>
+      <id><![CDATA[45]]></id>
+    </Product>
   </Products>
   <Tasks>
     <!--API_INTERNAL-->
