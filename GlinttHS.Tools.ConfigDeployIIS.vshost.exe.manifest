@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlinttHS.Tools.ConfigDeployIIS.exe" size="1270272">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlinttHS.Tools.ConfigDeployIIS.exe" size="1278464">
       <assemblyIdentity name="GlinttHS.Tools.ConfigDeployIIS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>J30F4i+GkQdSvNyq/thp31Xe3TM=</dsig:DigestValue>
+        <dsig:DigestValue>GPDllo+bgsOF0nG/7arLa3o/LJk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>zroFIjeQWP1LtpIVhB2srw8CsXI=</dsig:DigestValue>
+        <dsig:DigestValue>IIakm2HlDbz7+jYQBs8YKH0dC0Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -339,13 +339,13 @@
       <dsig:DigestValue>/e5dajDiGoACQ9kWiH1qdUVgts0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="IISInstallConfigs.xml" size="11370" writeableType="applicationData">
+  <file name="IISInstallConfigs.xml" size="11473" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>ccwbEEayEidKNwo1poYr+g94XN4=</dsig:DigestValue>
+      <dsig:DigestValue>TYmpMJ6dyFvbYMqPfBQi9xHFKOM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="IISInstallConfigs_Client.xml" size="2315" writeableType="applicationData">
