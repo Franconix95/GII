@@ -19317,3 +19317,1117 @@ Error: Cannot read configuration file due to insufficient permissions
 
 17/04/2017 16:06:49 - GlinttHS.Tools.ConfigDeployIIS.RecyclePool.001 (Line:5911) - The object identifier does not represent a valid object. (Exception from HRESULT: 0x800710D8)
 
+18/04/2017 16:28:25 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:759) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
+
+18/04/2017 16:33:11 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:759) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
+
+18/04/2017 16:34:28 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:28 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:28 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:29 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:29 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:29 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:29 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:29 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:29 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:29 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:30 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:30 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:30 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:30 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:30 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:30 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:30 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:31 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:31 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:31 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:31 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:31 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:31 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:31 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:31 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:32 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:32 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:32 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:32 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:32 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:32 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:32 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:33 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:34 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2814) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:34 - GlinttHS.Tools.ConfigDeployIIS.CreateNewWebSite.001 (Line:6586) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:34 - GlinttHS.Tools.ConfigDeployIIS.ChangeSiteId.001 (Line:6817) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:34 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForWebSite.001 (Line:6761) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:34 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:34 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:35 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:35 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:35 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:35 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:35 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:35 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:35 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:36 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:36 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:36 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:36 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:36 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:37 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:37 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:37 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:37 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:37 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:37 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:37 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:38 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:38 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:38 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:38 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:38 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:38 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:38 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:39 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:39 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:39 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:39 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:39 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:39 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:40 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:40 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:40 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:40 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:40 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:40 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:40 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:41 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:41 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:41 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:41 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:41 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:42 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:42 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:42 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:42 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:42 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:43 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:43 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:43 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:43 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:43 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:43 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:44 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:44 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:44 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:44 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:44 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:44 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:44 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:45 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:45 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:45 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:45 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:45 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:45 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:45 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:46 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:46 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:46 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:46 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:46 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:46 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:46 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:47 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:47 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:47 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:47 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:47 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:47 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:47 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:48 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:48 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:48 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:48 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:48 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:48 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:48 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:48 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:49 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:49 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:49 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:49 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:49 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:49 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:49 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:50 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:50 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:50 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:50 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:50 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:50 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:50 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:50 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:51 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:51 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:51 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:51 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:51 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:51 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:51 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:52 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:52 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:52 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:52 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:53 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:53 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:53 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:53 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:53 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:53 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:53 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:53 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:54 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:54 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:54 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:54 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:54 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:54 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:54 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:54 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:55 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:55 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:55 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:55 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:55 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:55 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:55 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:56 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:56 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:56 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:56 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:56 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:57 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:57 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:57 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:57 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:57 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:58 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:58 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:58 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:58 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:58 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:58 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:58 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:59 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:59 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:59 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:59 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:59 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:59 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:59 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:34:59 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:00 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:00 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:00 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:00 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:00 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:00 - GlinttHS.Tools.ConfigDeployIIS.ConvertVirtualDir.001 (Line:6709) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:00 - GlinttHS.Tools.ConfigDeployIIS.ChangePoolForVirtualDir.001 (Line:6789) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:01 - GlinttHS.Tools.ConfigDeployIIS.ConfigureMimeTypesForProduct.001 (Line:6851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:01 - GlinttHS.Tools.ConfigDeployIIS.ConfigureIISDefForProduct.001 (Line:6900) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:01 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2814) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:01 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2814) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+18/04/2017 16:35:01 - GlinttHS.Tools.ConfigDeployIIS.VerifyVirtualDirExists.001 (Line:2851) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+

@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlintthHS.Tools.ConnectionGenerator.dll" size="17920">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlintthHS.Tools.ConnectionGenerator.dll" size="17408">
       <assemblyIdentity name="GlintthHS.Tools.ConnectionGenerator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>0eMleJRhhqWUjWm8B9NDx79uwHs=</dsig:DigestValue>
+        <dsig:DigestValue>8bjAGJTjBoOejNs1zRqZETDo3r0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlinttHS.Tools.ConfigDeployIIS.exe" size="1278464">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlinttHS.Tools.ConfigDeployIIS.exe" size="1278976">
       <assemblyIdentity name="GlinttHS.Tools.ConfigDeployIIS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>SmTmG02UTiEtoILTHGQAqAhTi0Q=</dsig:DigestValue>
+        <dsig:DigestValue>rKRq5IzKWIGxP+MKEDa5gWFGZMk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>HmqiO5aqqHv9fibrdHa+9lImTl0=</dsig:DigestValue>
+        <dsig:DigestValue>CDGjS+5PNIgLQyVyvIceiu2ZWyk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
