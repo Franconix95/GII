@@ -10,10 +10,7 @@
 		    },
 			{  
 				"GenMode":"1",
-				"IDENTIFIERS":[
-					{"ID_APP":"SERVICE_DISCOVERY"},
-					{"ID_APP":"DBGPLATFORM"}
-				]
+				"IDENTIFIERS":[]
 		    }
 		]
    }
