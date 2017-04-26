@@ -20431,3 +20431,55 @@ Error: Configuration file is not well-formed XML
 
 
 
+19/04/2017 11:05:59 - GlinttHS.Tools.ConfigDeployIIS.UpdateLocalConfigsFromCentral.001 (Line:759) - Unable to cast object of type 'GlobalConfigMachineClient' to type 'System.IConvertible'.
+
+19/04/2017 11:06:40 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2814) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+19/04/2017 11:06:40 - GlinttHS.Tools.ConfigDeployIIS.VerifyPortIsAvaible.001 (Line:2695) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+19/04/2017 11:06:41 - GlinttHS.Tools.ConfigDeployIIS.VerifyPortIsAvaible.001 (Line:2734) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+19/04/2017 11:06:41 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2775) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+19/04/2017 11:06:41 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2775) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+19/04/2017 11:06:41 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2775) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+19/04/2017 11:06:42 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2775) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+19/04/2017 11:06:42 - GlinttHS.Tools.ConfigDeployIIS.VerifyWebSiteExists.001 (Line:2814) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+19/04/2017 11:06:42 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2775) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+
+19/04/2017 11:06:49 - GlinttHS.Tools.ConfigDeployIIS.VerifyPoolExists.001 (Line:2775) - Filename: \\?\C:\WINDOWS\system32\inetsrv\config\applicationHost.config
+Error: Configuration file is not well-formed XML
+
+
+

@@ -79,26 +79,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlinttHS.Tools.ConfigDeployIIS.exe" size="1278976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlinttHS.Tools.ConfigDeployIIS.exe" size="1408000">
       <assemblyIdentity name="GlinttHS.Tools.ConfigDeployIIS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>KIEbCVzFgR4zSyoLgk3ZRs7suUc=</dsig:DigestValue>
+        <dsig:DigestValue>YxPi5fLHk5bRnUBzosIXBtuLigY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlinttHS.Tools.ConfigDeployIIS.XmlSerializers.dll" size="409088">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GlinttHS.Tools.ConfigDeployIIS.XmlSerializers.dll" size="427008">
       <assemblyIdentity name="GlinttHS.Tools.ConfigDeployIIS.XmlSerializers" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>oNLyLuX914nq51R3AgUGho0tW8Y=</dsig:DigestValue>
+        <dsig:DigestValue>qzkwxR2mHSBRc41n90sBdC0F4EE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -330,31 +330,31 @@
       <dsig:DigestValue>3oEZYwmL94m9Ygiv0jHJwhIdNOA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="GlinttHS.Tools.ConfigDeployIIS.exe.config" size="1282">
+  <file name="GlinttHS.Tools.ConfigDeployIIS.exe.config" size="1595">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>/e5dajDiGoACQ9kWiH1qdUVgts0=</dsig:DigestValue>
+      <dsig:DigestValue>EQw2Jx94W8h0QYwz0iis+P9Shzw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="IISInstallConfigs.xml" size="11473" writeableType="applicationData">
+  <file name="IISInstallConfigs.xml" size="40358" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>TYmpMJ6dyFvbYMqPfBQi9xHFKOM=</dsig:DigestValue>
+      <dsig:DigestValue>Z3Q2gMeVZ+m07XfRBONTzl7z7n0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="IISInstallConfigs_Client.xml" size="2315" writeableType="applicationData">
+  <file name="IISInstallConfigs_Client.xml" size="2713" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>SiXszvi0wfVxTsCY1Ja9GEuhRV0=</dsig:DigestValue>
+      <dsig:DigestValue>5gtdWVxI5eCji3/lRoUxFVNhcSU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="KillSession_VBS.vbs" size="918">
