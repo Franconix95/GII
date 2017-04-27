@@ -20483,3 +20483,39 @@ Error: Configuration file is not well-formed XML
 
 
 
+26/04/2017 17:52:25 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+26/04/2017 17:52:25 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+26/04/2017 17:52:26 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+26/04/2017 17:52:26 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+26/04/2017 17:52:26 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+26/04/2017 17:52:31 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+26/04/2017 17:52:31 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+26/04/2017 17:52:33 - GlinttHS.Tools.ConfigDeployIIS.LoadConfigFromXml.001 (Line:226) - Could not find file 'd:\SolucoesAutonomas\Glintths.Tools\GlinttHS.Tools\GlinttHS.Tools.ConfigDeployIIS\bin\Release\IISInstallConfigs_Client.xml'.
+
+26/04/2017 17:52:33 - GlinttHS.Tools.ConfigDeployIIS.CleanOldZip.001 (Line:5187) - Input string was not in a correct format.
+
+27/04/2017 09:36:19 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+27/04/2017 09:36:19 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+27/04/2017 09:36:19 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+27/04/2017 09:36:20 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+27/04/2017 09:36:20 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+27/04/2017 09:36:24 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+27/04/2017 09:36:24 - GlinttHS.Tools.OracleCompiler.GetConfigByName.001 (Line:100) - Object reference not set to an instance of an object.
+
+27/04/2017 09:36:27 - GlinttHS.Tools.ConfigDeployIIS.LoadConfigFromXml.001 (Line:226) - Could not find file 'd:\SolucoesAutonomas\Glintths.Tools\GlinttHS.Tools\GlinttHS.Tools.ConfigDeployIIS\bin\Release\IISInstallConfigs_Client.xml'.
+
+27/04/2017 09:36:27 - GlinttHS.Tools.ConfigDeployIIS.CleanOldZip.001 (Line:5187) - Input string was not in a correct format.
+
