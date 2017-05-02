@@ -191,6 +191,10 @@ order by ;-->
       <name><![CDATA[GRAFICOS]]></name>
       <id><![CDATA[45]]></id>
     </Product>
+    <Product>
+      <name><![CDATA[TRIAGEM]]></name>
+      <id><![CDATA[46]]></id>
+    </Product>
   </Products>
   <Tasks>
     <!--API_INTERNAL-->
